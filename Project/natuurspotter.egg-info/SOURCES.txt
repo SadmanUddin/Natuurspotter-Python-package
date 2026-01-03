@@ -1,0 +1,14 @@
+README.md
+setup.py
+natuurspotter/__init__.py
+natuurspotter/biodiversityy_analysis.py
+natuurspotter/observation_map.py
+natuurspotter/pdf_generation.py
+natuurspotter/pdf_info.py
+natuurspotter/seasonall_analysis.py
+natuurspotter/speciess_info.py
+natuurspotter.egg-info/PKG-INFO
+natuurspotter.egg-info/SOURCES.txt
+natuurspotter.egg-info/dependency_links.txt
+natuurspotter.egg-info/requires.txt
+natuurspotter.egg-info/top_level.txt

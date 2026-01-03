@@ -1,0 +1,51 @@
+[
+    {
+        "id": "770ada036f22d769",
+        "type": "ui_template",
+        "z": "6310609f15ca2110",
+        "group": "169fadb01acc732f",
+        "name": "",
+        "order": 4,
+        "width": 12,
+        "height": 10,
+        "format": "<div style=\"width:100%; height:600px;\">\n    <iframe src=\"/plots/Graph_seasonal.html\" style=\"width:100%; height:100%; border:none;\">\n    </iframe>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 940,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "169fadb01acc732f",
+        "type": "ui_group",
+        "name": "Observation Map",
+        "tab": "9a390eeb52d95187",
+        "order": 5,
+        "disp": true,
+        "width": "24",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9a390eeb52d95187",
+        "type": "ui_tab",
+        "name": "NaturSpotter Dashboard",
+        "icon": " <i class=\"fa fa-bug\" aria-hidden=\"true\"></i>",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "39017d670c5e82a0",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6"
+        }
+    }
+]

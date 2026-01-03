@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: natuurspotter
+Version: 0.1.0
+Requires-Dist: requests
+Requires-Dist: beautifulsoup4
+Requires-Dist: folium
+Requires-Dist: geopy
+Requires-Dist: plotly
+Requires-Dist: reportlab
