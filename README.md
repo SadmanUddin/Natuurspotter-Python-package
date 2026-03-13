@@ -1,9 +1,7 @@
 # NatuurSpotter
 
 NatuurSpotter is a Python-based biodiversity analysis package designed to analyze **Coleoptera (beetle) observations in Namur Province, Belgium**.
-
 The system automatically collects biodiversity observation data, performs exploratory data analysis, generates visualizations and reports, and displays results through a **Node-RED dashboard**.
-
 The project integrates **data scraping, biodiversity analytics, geospatial visualization, automated reporting, and LLM-based explanations**.
 
 ---
