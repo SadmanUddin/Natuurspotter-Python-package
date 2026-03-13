@@ -251,9 +251,16 @@ Additional services include:
 Python libraries:
 
 - pandas
+- numpy
 - plotly
 - folium
 - requests
+- beautifulsoup
+- selenium 
+- pathlib
+- calendar 
+- geopy
+- reportlab
 
 Other tools:
 
