@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+import pandas as pd
+import numpy as np
 from tabulate import tabulate
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
